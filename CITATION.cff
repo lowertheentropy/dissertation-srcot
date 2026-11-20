@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "To cite the public companion data, use the metadata below and identify the commit you used."
+type: dataset
+title: "Public companion data for the SRCoT dissertation"
+authors:
+  - family-names: Broszio
+    given-names: Fabian
+repository-code: "https://github.com/lowertheentropy/dissertation-srcot"
